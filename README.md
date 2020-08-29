@@ -11,3 +11,6 @@
                       [Facebook - Aminem Shaw](https://www.facebook.com/ajeetkumar.shaw.925).
 - 😄 Pronouns: He/his
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ajeetshaw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
